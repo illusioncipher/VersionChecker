@@ -10,7 +10,7 @@ def read_root():
 
 @app.get("/version")
 def version():
-    ver = "V3.5.2
+    ver = "V3.5.2"
     return ver
 
 
